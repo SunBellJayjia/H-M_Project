@@ -770,7 +770,7 @@ train_and_evaluate(best_hyperparams.get('embedding_dim'), best_hyperparams.get('
 
 
 
-### **项目说明**：由于数据集太大
+### **项目说明**：由于数据集太大,所以数据集官网自行下载
 
 > **Tips**：**将代码文件hosts1.py下载好后，在目录新建子文件夹base_data，请将数据集文件Images、articles.csv 、customers.csv 、transactions_train.csv数据集文件放于其中。然后再将技术栈用到的库下载好，即可运行代码！**
 
